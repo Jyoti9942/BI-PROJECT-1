@@ -1,7 +1,8 @@
 # Competitive Analysis Sales Dashboard - README
 
 ## Dashboard
-![Screenshot 2025-03-24 091623](https://github.com/user-attachments/assets/8c6d4d52-8289-451f-a09b-f07ff66aaf77)
+![Screenshot 2025-03-24 144155](https://github.com/user-attachments/assets/931792c9-7cd5-4199-822a-8582867e8393)
+
 
 
 ## Overview
